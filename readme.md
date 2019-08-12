@@ -10,7 +10,7 @@ I genuinely love any kind of feedback. As people don't do it often enough, my pr
 I need to be able to switch to Colemak keyboard layout. I've make the switch few years ago and due to muscle memory I can't use qwerty anymore.
 # Things I struggle with
 - Making friends with human beings, dogs and cats are usually ok. 
-- I usually avoid any social activity that involves only sitting and talking. However I'll say yes to any physical activity (go carts, climbing, hiking, hackathon, video/board games).
+- I usually avoid any social gatherings that involves only sitting and talking. However I'll say yes to any physical activities, sport or activity with the purpose (go carts, climbing, hiking, hackathon, video/board games).
 - Working under pressure.
 # Things I love
 I love learning new things and trying new tech stacks, podcasts and audio books. I like to build, repair and ride bicycles. Camping and bikepacking.
